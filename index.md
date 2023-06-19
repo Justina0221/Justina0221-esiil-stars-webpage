@@ -8,4 +8,4 @@ Summer2022
  Masters in Computer Science
 
 
- Always excited to learn mmore about Earth Data Science!
+ Always excited to learn more about Earth Data Science!
